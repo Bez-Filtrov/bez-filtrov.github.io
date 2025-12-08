@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem "jekyll", "~> 3.10"
-gem "just-the-docs", "~> 0.10"
+gem "jekyll-remote-theme", "~> 0.4.3"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.17"
