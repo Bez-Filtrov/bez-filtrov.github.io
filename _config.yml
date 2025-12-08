@@ -1,0 +1,25 @@
+title: Без фильтров !
+description: >-
+  Современный VPN сервис с надежным уровнем защиты и анонимности
+
+email: bfiltrov@gmail.com
+
+domain: bez-filtrov.github.io
+url: "https://bez-filtrov.github.io" 
+baseurl: "/" 
+
+theme: just-the-docs
+plugins:
+  - jekyll-feed
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
