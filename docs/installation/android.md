@@ -1,6 +1,6 @@
 ---
 layout: default
-title: android
+title: Для Android
 parent: Установка
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: windows
+title: Для Windows 7+
 parent: Установка
 ---
 

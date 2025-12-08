@@ -1,6 +1,6 @@
 ---
 layout: default
-title: iphone
+title: Для iPhone
 parent: Установка
 ---
 

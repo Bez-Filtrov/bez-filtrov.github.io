@@ -1,6 +1,6 @@
 ---
 layout: default
-title: macos
+title: Для MacOS
 parent: Установка
 ---
 
