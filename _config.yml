@@ -4,6 +4,10 @@ description: >-
 
 email: bfiltrov@gmail.com
 
+aux_links:
+  Войти в личный кабинет:
+    - https://t.me/bez_filtrov_vpn_bot
+
 domain: bez-filtrov.github.io
 url: "https://bez-filtrov.github.io" 
 baseurl: "/" 
