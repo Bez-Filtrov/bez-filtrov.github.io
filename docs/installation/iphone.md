@@ -10,7 +10,6 @@ parent: Установка
 
 ### 1. Скачивание приложения
 
-Для IOS в качестве основного клиента мы предлагаем пользователям использовать Xray клиент Streisand.
 1. Перейдите в AppStore и скачайте приложение по [ссылке](https://apps.apple.com/tr/app/streisand/id6450534064).
 ![iphone1]({{ site.baseurl }}/images/installation/iphone/1.png)
 2. Откройте приложение после установки.
