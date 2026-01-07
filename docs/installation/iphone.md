@@ -56,9 +56,11 @@ document.addEventListener("DOMContentLoaded", function() {
 1. Скопируйте ссылку подписки для IOS из нашего [Telegram бота](https://t.me/bez_filtrov_vpn_bot).  
    *(Раздел «Мое подключение» -> «Соединение <ID>»)*.
 2. В приложении Streisand на главном экране нажмите «**+**» в правом верхнем углу.
-![iphone2]({{ site.baseurl }}/images/installation/iphone/2.png){: width="50%"}
+
+   ![iphone2]({{ site.baseurl }}/images/installation/iphone/2.png){: width="50%"}
 3. В появившемся меню выберите «**Настроить вручную**»
-![iphone3]({{ site.baseurl }}/images/installation/iphone/3.png){: width="50%"}
+
+   ![iphone3]({{ site.baseurl }}/images/installation/iphone/3.png){: width="50%"}
 4. Заполните данные в точности как указано ниже:
    *   Имя: BezFiltrovVPN
    *   URL: *(Вставьте ссылку, которую скопировали в пункте 1)*
@@ -67,4 +69,5 @@ document.addEventListener("DOMContentLoaded", function() {
    ![iphone4]({{ site.baseurl }}/images/installation/iphone/4.png){: width="50%"}
 5. Нажмите «**Сохранить**» в правом верхнем углу.
 6. Вернитесь на главный экран, выберите добавленное подключение и нажмите переключатель сверху для соединения. Разрешите добавление VPN-конфигурации, если телефон спросит.
-![iphone5]({{ site.baseurl }}/images/installation/iphone/5.png){: width="50%"}
+
+   ![iphone5]({{ site.baseurl }}/images/installation/iphone/5.png){: width="50%"}
