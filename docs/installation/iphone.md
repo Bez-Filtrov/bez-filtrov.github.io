@@ -20,7 +20,36 @@ parent: Установка
 
 #### Способ 1: Автоматическая настройка (Рекомендуется)
 
-> В разработке
+<div id="auto-setup-container" style="display: none; padding: 20px; background-color: #f0f7fd; border-left: 5px solid #0088cc; margin-bottom: 20px;">
+    <strong>🚀 Быстрая настройка:</strong>
+    <p class="mb-2">Мы определили ваш ключ доступа. Нажмите кнопку ниже, чтобы автоматически добавить сервер в приложение:</p>
+    
+    <a id="deep-link-btn" href="#" class="btn btn-primary fs-4">Добавить в Streisand</a>
+    <p class="fs-2 mt-2 text-grey-dk-000">После нажатия подтвердите открытие в приложении Streisand.</p>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    const SCHEMA_PREFIX = "streisand://import/"; 
+    const PARAM_NAME = 'link';
+    
+    const urlParams = new URLSearchParams(window.location.search);
+    const subscriptionUrl = urlParams.get(PARAM_NAME);
+    
+    if (paramId) {
+        const finalLink = SCHEMA_PREFIX + subscriptionUrl; 
+
+        const container = document.getElementById('auto-setup-container');
+        const btn = document.getElementById('deep-link-btn');
+        
+        btn.href = finalLink;
+        container.style.display = 'block';
+    }
+});
+</script>
+
+> Если автоматическая кнопка выше не появилась, используйте ручной способ ниже или откройте инструкцию из [Telegram бота](https://t.me/bez_filtrov_vpn_bot) *(Раздел «Мое подключение» -> «Соединение <ID>»)*.
+
 
 #### Способ 2: Ручная настройка
 
