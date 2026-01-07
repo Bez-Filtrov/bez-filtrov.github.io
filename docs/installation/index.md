@@ -3,6 +3,7 @@ layout: default
 title: Установка
 has_children: true
 permalink: /docs/installation
+nav_order: 2
 ---
 
 ## Установка
