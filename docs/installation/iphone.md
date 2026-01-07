@@ -36,7 +36,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const urlParams = new URLSearchParams(window.location.search);
     const subscriptionUrl = urlParams.get(PARAM_NAME);
     
-    if (paramId) {
+    if (subscriptionUrl) {
         const finalLink = SCHEMA_PREFIX + subscriptionUrl; 
 
         const container = document.getElementById('auto-setup-container');
@@ -63,6 +63,7 @@ document.addEventListener("DOMContentLoaded", function() {
    *   Имя: BezFiltrovVPN
    *   URL: *(Вставьте ссылку, которую скопировали в пункте 1)*
    *   Автообновление: Каждый час.
+
    ![iphone4]({{ site.baseurl }}/images/installation/iphone/4.png){: width="50%"}
 5. Нажмите «**Сохранить**» в правом верхнем углу.
 6. Вернитесь на главный экран, выберите добавленное подключение и нажмите переключатель сверху для соединения. Разрешите добавление VPN-конфигурации, если телефон спросит.
