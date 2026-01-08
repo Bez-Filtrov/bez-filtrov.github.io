@@ -65,6 +65,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
    ![iphone3]({{ site.baseurl }}/images/installation/iphone/3.png){: width="50%"}
 4. Заполните данные в точности как указано ниже:
+   *   Тип: Subscription
    *   Имя: BezFiltrovVPN
    *   URL: *(Вставьте ссылку, которую скопировали в пункте 1)*
    *   Автообновление: Каждый час.
