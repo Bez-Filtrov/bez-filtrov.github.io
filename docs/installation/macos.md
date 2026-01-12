@@ -19,9 +19,9 @@ AnyPortal - Это . Он написан с использованием отк�
 
 1. Скачайте и установите по [ссылке](https://github.com/AnyPortal/AnyPortal/releases/latest) `.dmg` файл, дважды щелкнув по нему и перенеся программу в каталог `Applications`.
 
-   ![macos1]({{ site.baseurl }}/images/installation/macos/1.png){: width="50%"}
+   ![macos1]({{ site.baseurl }}/images/installation/macos/1.png){: width="100%"}
 
-   ![macos2]({{ site.baseurl }}/images/installation/macos/2.png){: width="50%"}
+   ![macos2]({{ site.baseurl }}/images/installation/macos/2.png){: width="100%"}
 2. Откройте приложение после установки.
 
 #### Ошибка при открытии AnyPortal
@@ -33,7 +33,7 @@ AnyPortal - Это . Он написан с использованием отк�
    ![macos3]({{ site.baseurl }}/images/installation/macos/3.png){: width="50%"}
 2. Откройте System Settings (логотип 🍏 Apple в левом верхнем углу), перейдите в раздел `Policy and Security`, промотайте до раздела `Security` и нажмите `Open Anyway`.
 
-   ![macos4]({{ site.baseurl }}/images/installation/macos/4.png){: width="50%"}
+   ![macos4]({{ site.baseurl }}/images/installation/macos/4.png){: width="100%"}
 3. Запустите AnyPortal еще раз.
 
 ### 2. Настройка подключения
@@ -46,27 +46,27 @@ AnyPortal - Это . Он написан с использованием отк�
 
 1. Перейдите в настройки программы.
 
-   ![macos5]({{ site.baseurl }}/images/installation/macos/5.png){: width="50%"}
+   ![macos5]({{ site.baseurl }}/images/installation/macos/5.png){: width="100%"}
 2. Перейдите в «**Assets**».
 
-   ![macos6]({{ site.baseurl }}/images/installation/macos/6.png){: width="50%"}
+   ![macos6]({{ site.baseurl }}/images/installation/macos/6.png){: width="100%"}
 3. Нажмите «**︙**» и выберете «**Add asset**».
 
-   ![macos7]({{ site.baseurl }}/images/installation/macos/7.png){: width="50%"}
+   ![macos7]({{ site.baseurl }}/images/installation/macos/7.png){: width="100%"}
 4. Заполните данные в точности как указано ниже и нажмите сохранить:
    *   Asset type: remote
    *   URL: `github://XTLS/Xray-core/Xray-macos-arm64-v8a.zip/xray` - для Mac на процессорах M, `github://XTLS/Xray-core/Xray-macos-64.zip/xray` - для Mac на процессорах Intel.
 
-   ![macos8]({{ site.baseurl }}/images/installation/macos/8.png){: width="50%"}
+   ![macos8]({{ site.baseurl }}/images/installation/macos/8.png){: width="100%"}
 5. Перейдите снова в «**Settings**» и перейдите в «**Cores**».
 
-   ![macos9]({{ site.baseurl }}/images/installation/macos/9.png){: width="50%"}
+   ![macos9]({{ site.baseurl }}/images/installation/macos/9.png){: width="100%"}
 6. Нажмите «**︙**» и выберете «**Add core**».
 
-   ![macos10]({{ site.baseurl }}/images/installation/macos/10.png){: width="50%"}
+   ![macos10]({{ site.baseurl }}/images/installation/macos/10.png){: width="100%"}
 7. Выберите в «**Core executable**» ранее созданный Asset и нажмите сохранить.
 
-   ![macos11]({{ site.baseurl }}/images/installation/macos/11.png){: width="50%"}
+   ![macos11]({{ site.baseurl }}/images/installation/macos/11.png){: width="100%"}
 
 Пол дела сделано, отлично ! Теперь добавим профиль с вашим доступом:
 
@@ -75,8 +75,8 @@ AnyPortal - Это . Он написан с использованием отк�
 2. Перейдите в AnyPortal в раздел «**Profiles**».
 3. Нажмите «**︙**» и выберете «**Add profile group**».
 
-   ![macos12]({{ site.baseurl }}/images/installation/macos/12.png){: width="50%"}
+   ![macos12]({{ site.baseurl }}/images/installation/macos/12.png){: width="100%"}
 4. Вставьте ссылку, которую скопировали в пункте 1 в качестве значения URL и нажмите «**Сохранить и обновить**»
 5. Сделайте ваш профиль активным, включите VPN вместе с `Tun2socks`.
 
-   ![macos13]({{ site.baseurl }}/images/installation/macos/13.png){: width="50%"}
+   ![macos13]({{ site.baseurl }}/images/installation/macos/13.png){: width="100%"}
