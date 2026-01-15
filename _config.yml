@@ -1,4 +1,4 @@
-title: Без фильтров !
+title: Без фильтров!
 description: >-
   Современный VPN сервис с надежным уровнем защиты и анонимности
 
@@ -8,9 +8,11 @@ aux_links:
   Войти в личный кабинет:
     - https://t.me/bez_filtrov_vpn_bot
 
+footer_content: "© 2026 «Без фильтров!». Все права защищены."
+
 domain: bez-filtrov.github.io
-url: "https://bez-filtrov.github.io" 
-baseurl: "/" 
+url: "https://bez-filtrov.github.io"
+baseurl: "/"
 
 remote_theme: https://github.com/just-the-docs/just-the-docs
 plugins:
