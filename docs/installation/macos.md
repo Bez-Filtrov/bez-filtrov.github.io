@@ -12,7 +12,7 @@ parent: Установка
 
 1. Перейдите в AppStore и скачайте приложение по [ссылке](https://apps.apple.com/tr/app/streisand/id6450534064).
 
-   ![macos1]({{ site.baseurl }}/images/installation/macos1/1.png){: width="50%"}
+   ![macos1]({{ site.baseurl }}/images/installation/macos/1.png){: width="50%"}
 2. Откройте приложение после установки.
 
 ### 2. Настройка подключения
@@ -60,18 +60,18 @@ document.addEventListener("DOMContentLoaded", function() {
    *(Раздел «Мое подключение» -> «Соединение <ID>»)*.
 2. В приложении Streisand нажмите «**+**» в правом верхнем углу.
 
-   ![macos2]({{ site.baseurl }}/images/installation/macos/2.png){: width="50%"}
+   ![macos2]({{ site.baseurl }}/images/installation/macos/2.png)
 3. В появившемся меню выберите «**Настроить вручную**»
 
-   ![macos3]({{ site.baseurl }}/images/installation/macos/3.png){: width="50%"}
+   ![macos3]({{ site.baseurl }}/images/installation/macos/3.png)
 4. Заполните данные в точности как указано ниже:
    *   Тип: Subscription
    *   Имя: BezFiltrovVPN
    *   URL: *(Вставьте ссылку, которую скопировали в пункте 1)*
    *   Автообновление: Каждый час.
 
-   ![macos4]({{ site.baseurl }}/images/installation/macos/4.png){: width="50%"}
+   ![macos4]({{ site.baseurl }}/images/installation/macos/4.png)
 5. Нажмите «**Сохранить**» в правом верхнем углу.
 6. Вернитесь на главную, выберите добавленное подключение и нажмите переключатель сверху для соединения.
 
-   ![macos5]({{ site.baseurl }}/images/installation/macos/5.png){: width="50%"}
+   ![macos5]({{ site.baseurl }}/images/installation/macos/5.png)
