@@ -12,7 +12,7 @@ parent: Установка
 
 1. Перейдите в Google Play и скачайте приложение по [ссылке](https://play.google.com/store/apps/details?id=com.v2raytun.android).
 
-   ![android1]({{ site.baseurl }}/images/installation/android/1.png){: width="50%"}
+   ![android1]({{ site.baseurl }}/images/installation/android/1.jpg){: width="50%"}
 2. Откройте приложение после установки.
 
 ### 2. Настройка подключения
@@ -60,11 +60,11 @@ document.addEventListener("DOMContentLoaded", function() {
    *(Раздел «Мое подключение» -> «Соединение <ID>»)*.
 2. В приложении v2RayTun на главном экране нажмите «**+**» в правом верхнем углу.
 
-   ![android2]({{ site.baseurl }}/images/installation/android/2.png){: width="50%"}
+   ![android2]({{ site.baseurl }}/images/installation/android/2.jpg){: width="50%"}
 3. В появившемся меню выберите «**Импорт из буфера обмена**»
 
-   ![android3]({{ site.baseurl }}/images/installation/android/3.png){: width="50%"}
+   ![android3]({{ site.baseurl }}/images/installation/android/3.jpg){: width="50%"}
 
 6. Нажмите переключатель сверху для соединения. Разрешите добавление VPN-конфигурации, если телефон спросит.
 
-   ![android4]({{ site.baseurl }}/images/installation/android/4.png){: width="50%"}
+   ![android4]({{ site.baseurl }}/images/installation/android/4.jpg){: width="50%"}
