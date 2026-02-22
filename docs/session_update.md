@@ -40,8 +40,8 @@ nav_order: 2
 Откройте приложение [V2rayTun]("v2raytun://open).
 
 <div style="display: flex; gap: 10px; justify-content: center;">
-  <img src="{{ site.baseurl }}/images/session_update/windows/1.jpg" alt="windows1" style="width: 48%;">
-  <img src="{{ site.baseurl }}/images/session_update/windows/2.jpg" alt="windows2" style="width: 48%;">
+  <img src="{{ site.baseurl }}/images/session_update/windows/1.png" alt="windows1" style="width: 48%;">
+  <img src="{{ site.baseurl }}/images/session_update/windows/2.png" alt="windows2" style="width: 48%;">
 </div>
 
 ### MacOS
